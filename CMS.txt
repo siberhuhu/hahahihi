@@ -1,0 +1,19 @@
+Serangan pada CMS (Content Management System) adalah serangkaian teknik yang digunakan oleh penyerang untuk mengeksploitasi kerentanan atau kelemahan dalam CMS tertentu. CMS adalah platform perangkat lunak yang digunakan untuk membuat, mengelola, dan memperbarui konten di situs web tanpa memerlukan pengetahuan teknis yang mendalam tentang pengkodean web.
+
+Serangan pada CMS dapat mencakup berbagai teknik, termasuk:
+
+Exploiting Known Vulnerabilities: Penyerang dapat mencari dan mengeksploitasi kerentanan yang diketahui dalam CMS yang digunakan. Ini mungkin mencakup kerentanan perangkat lunak yang belum diperbaiki atau patch yang belum diinstal.
+
+Brute Force Attacks: Penyerang dapat mencoba menebak kata sandi administrator atau login akun CMS dengan menggunakan serangan brute force atau dictionary attack.
+
+SQL Injection: Jika CMS menggunakan basis data untuk menyimpan informasi, serangan SQL injection dapat digunakan untuk mengeksploitasi kerentanan dalam cara CMS memproses input pengguna, mengakibatkan eksekusi perintah SQL yang tidak diinginkan.
+
+Cross-Site Scripting (XSS): Serangan XSS dapat memungkinkan penyerang untuk menyisipkan skrip berbahaya ke dalam halaman web yang dihasilkan oleh CMS, yang kemudian dieksekusi oleh browser pengguna.
+
+File Inclusion Vulnerabilities: Jika CMS memungkinkan penyertaan file eksternal, penyerang dapat mencoba memanipulasi fitur ini untuk menyertakan file berbahaya ke dalam halaman web.
+
+Backdoor Insertion: Penyerang dapat mencoba menyisipkan backdoor ke dalam instalasi CMS, yang memungkinkan akses yang tidak sah ke sistem di kemudian hari.
+
+Plugin atau Tema yang Rentan: CMS sering kali menggunakan plugin atau tema tambahan yang dikembangkan oleh pihak ketiga. Jika plugin atau tema tersebut memiliki kerentanan, penyerang dapat mengeksploitasi kerentanan ini untuk mengambil alih kontrol atas situs web.
+
+Serangan pada CMS dapat menyebabkan pencurian data, defacement (pengubahan tampilan situs web), penyebaran malware, atau penggunaan sumber daya server yang tidak sah. Untuk melindungi CMS dari serangan semacam itu, penting untuk memastikan bahwa CMS dan semua plugin atau tema yang digunakan diperbarui secara teratur, mengonfigurasi pengaturan keamanan dengan benar, menggunakan kata sandi yang kuat, dan memantau aktivitas yang mencurigakan.

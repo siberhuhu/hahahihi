@@ -1,0 +1,26 @@
+Infrastuctur setup dan security hardening
+
+1. logon and password policy
+- https://phoenixnap.com/kb/ssh-with-key
+- https://highon.coffee/blog/security-harden-centos-7/#secure-etclogindefs-pasword-policy
+2. network equiptment handling
+- IDS
+3. public service protection
+- Hardening HTTP, SSH, dll
+4. event monitoring
+- IDS
+5. firewall policy
+- firewall-cmd, iptables
+
+Security incident respone and digital forensic infestigation
+
+1.incident response work task server web server
+- Terdapat kerentanan pada web server kemudian kita harus langsung perbaiki
+2.incident response work task server file server
+- Terdapat kerentanan pada file server (mungkin ftp) dan harus langsung diperbaiki
+3.vulnerability detection and repair web server
+- Terdapat kerentanan pada web server kemudian kita harus langsung perbaiki
+
+contoh certicate shell login https://phoenixnap.com/kb/ssh-with-key 
+
+https://highon.coffee/blog/security-harden-centos-7/#secure-etclogindefs-pasword-policy

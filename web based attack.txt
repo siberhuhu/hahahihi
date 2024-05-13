@@ -1,0 +1,23 @@
+Serangan berbasis web (web-based attack) merujuk pada serangkaian teknik yang digunakan oleh penyerang untuk mengeksploitasi kerentanan atau kelemahan dalam aplikasi web, server web, atau infrastruktur web secara umum. Serangan semacam ini biasanya ditujukan pada aplikasi web yang berjalan di server, dan dapat menyasar berbagai komponen dari aplikasi tersebut, seperti frontend, backend, basis data, atau infrastruktur server.
+
+Berikut adalah beberapa contoh serangan berbasis web:
+
+SQL Injection: Penyerang memanfaatkan kerentanan dalam aplikasi web untuk menyisipkan perintah SQL yang berbahaya ke dalam input yang diterima oleh server basis data. Hal ini dapat mengakibatkan eksekusi perintah SQL yang tidak diinginkan dan bahkan akses tidak sah ke basis data.
+
+Cross-Site Scripting (XSS): Penyerang menyisipkan skrip berbahaya ke dalam halaman web yang kemudian dieksekusi oleh browser pengguna. XSS dapat digunakan untuk mencuri informasi sesi pengguna, merutekan lalu lintas, atau menjalankan serangan lainnya.
+
+Cross-Site Request Forgery (CSRF): Penyerang memanipulasi pengguna untuk melakukan tindakan yang tidak disengaja pada aplikasi web yang terautentikasi, seperti mengirim permintaan yang tidak sah ke server.
+
+Directory Traversal: Penyerang mencoba memanipulasi input yang diterima oleh aplikasi web untuk mengakses file atau direktori yang seharusnya tidak dapat diakses.
+
+Remote File Inclusion (RFI) dan Local File Inclusion (LFI): Penyerang mencoba menginklusi file eksternal, baik dari server jarak jauh (RFI) atau dari sistem lokal (LFI), ke dalam halaman web yang dieksekusi oleh server.
+
+Server-Side Request Forgery (SSRF): Penyerang memanipulasi server untuk melakukan permintaan ke sumber daya yang seharusnya tidak dapat diakses oleh server tersebut, seperti melakukan pemindaian jaringan internal.
+
+Injection Attacks (misalnya, Command Injection): Penyerang memasukkan data yang berbahaya ke dalam input yang diterima oleh aplikasi web, yang kemudian dieksekusi oleh server, misalnya, untuk menjalankan perintah sistem yang tidak sah.
+
+Phishing dan Pharming: Teknik yang digunakan untuk mencuri informasi pribadi atau keuangan pengguna dengan membuat situs web palsu yang meniru situs web yang sah.
+
+Serangan berbasis web sangat serius dan dapat menyebabkan pencurian data sensitif, kerusakan reputasi, kerugian finansial, dan kerusakan sistem. Untuk melindungi aplikasi web dari serangan semacam itu, penting untuk menerapkan praktik keamanan yang baik, termasuk penggunaan firewall, enkripsi data, validasi input, pemutusan koneksi yang tidak aman, dan pembaruan perangkat lunak yang teratur.
+
+
