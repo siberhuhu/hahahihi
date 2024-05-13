@@ -1,0 +1,13 @@
+CTF
+1. route http port attack
+- Web server aplikasi (port bisa random)
+2. command port attack
+- Bisa ftp, ssh, database, dll
+- https://blog.netwrix.com/2022/08/04/open-port-vulnerabilities-list/
+3. web based attack
+- Kerentanan pada aplikasi web bisa seperti sqli, local file inclution, rce, dan kerentanan lainnya
+4. sql attack
+- Spesifik web yang terdapat kerentanan sql injection
+5. cms attack
+- Aplikasi berupa CMS, biasanya menggunakan PHP / Wordpress
+- https://bitninja.com/blog/most-common-cms-attack-types/ 
